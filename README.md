@@ -1,6 +1,6 @@
 [![](https://github.com/EduardoQuero/Profissao-Cientista-de-Dados/blob/main/Cientista%20de%20Dados/ebac-course-utils/media/logo/ebac_logo-data_science.png)](https://github.com/EduardoQuero/Profissao-Cientista-de-Dados)
 
-<details><summary><h1>Python para Análise de Dados</h1></summary>
+<details><summary><h3>Python para Análise de Dados</h3></summary>
 
 - [x] [Módulo 1 - Python: Variáveis & Tipos de Dados](https://github.com/EduardoQuero/Profissao-Cientista-de-Dados/tree/main/Python/M%C3%B3dulo%2001%20-%20Python-%20Vari%C3%A1veis%20%26%20Tipos%20de%20Dados)
 - [x] [Módulo 2 - Python: Estruturas de Dados](https://github.com/EduardoQuero/Profissao-Cientista-de-Dados/tree/main/Python/M%C3%B3dulo%2002%20-%20Python-%20Estruturas%20de%20Dados)
@@ -18,20 +18,7 @@
 
 </details>
 
-<details><summary><h1>SQL para Análise de Dados</h1></summary>
 
-- [x] [Módulo 1 - Base de dados & Linguagem SQL](link)
-- [x] [Módulo 2 - Trabalhando com Tabelas](link)
-- [x] [Módulo 3 - Selecionando & Ordenando](link)
-- [x] [Módulo 4 - Filtrando & Seleção Condicional](hlink)
-- [x] [Módulo 5 - Agregações](link)
-- [x] [Módulo 6 - Trabalhando com Múltiplas Tabelas](link)
-- [x] [Módulo 7 - SQL Avançado](link)
-- [x] [Módulo 8 - Projeto Final](link)
-  > [![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&logo=Jupyter&logoColor=white)](link.ipynb)
-[![Open in Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](link kaggle)
-
-</details>
 
 <details open>
   <summary>
@@ -97,6 +84,21 @@
 - [x] [Módulo 28 - Streamlit III, IV](link)
 
 - [x] [Módulo 29 - K-means](link)
+
+<details><summary><h3>SQL para Análise de Dados</h3></summary>
+
+- [x] [Módulo 1 - Base de dados & Linguagem SQL](link)
+- [x] [Módulo 2 - Trabalhando com Tabelas](link)
+- [x] [Módulo 3 - Selecionando & Ordenando](link)
+- [x] [Módulo 4 - Filtrando & Seleção Condicional](hlink)
+- [x] [Módulo 5 - Agregações](link)
+- [x] [Módulo 6 - Trabalhando com Múltiplas Tabelas](link)
+- [x] [Módulo 7 - SQL Avançado](link)
+- [x] [Módulo 8 - Projeto Final](link)
+  > [![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&logo=Jupyter&logoColor=white)](link.ipynb)
+[![Open in Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](link kaggle)
+
+</details>
 
 <details open>
   <summary>
