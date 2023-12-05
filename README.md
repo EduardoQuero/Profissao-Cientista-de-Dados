@@ -110,7 +110,7 @@
 - [x] [**Projeto #02** | Previsão de renda](https://github.com/EduardoQuero/Cases/tree/main/Previsao_Renda)
   > [![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&logo=Jupyter&logoColor=white)](https://github.com/EduardoQuero/Cases/tree/main/Previsao_Renda)
 
-  - [x] [**Projeto #03** | Análise de Dados de Acomodações em Londres](https://github.com/EduardoQuero/Cases/tree/main/An%C3%A1lise_Dados_Airbnb_Londres)
+- [x] [**Projeto #03** | Análise de Dados de Acomodações em Londres](https://github.com/EduardoQuero/Cases/tree/main/An%C3%A1lise_Dados_Airbnb_Londres)
   > [![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&logo=Jupyter&logoColor=white)](https://github.com/EduardoQuero/Cases/tree/main/An%C3%A1lise_Dados_Airbnb_Londres)
 
 </details>
