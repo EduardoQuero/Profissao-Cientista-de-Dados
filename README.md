@@ -15,12 +15,9 @@
   > [![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&logo=Jupyter&logoColor=white)](https://github.com/EduardoQuero/Profissao-Cientista-de-Dados/blob/main/Python/M%C3%B3dulo%2010%20-%20Python-%20Projeto%20Final/M%C3%B3dulo_10_Python-Projeto_Final-eduardo-quero.ipynb)
 [![Open in Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/eduardoquero/explorando-dados-de-cr-dito)
 
-
 </details>
 
-
-
-<details open>
+<details >
   <summary>
     <h1>Curso Profissão: Cientista de Dados</h1>
   </summary>
@@ -85,6 +82,8 @@
 
 - [x] [Módulo 29 - K-means](link)
 
+</details>
+
 <details><summary><h1>SQL para Análise de Dados</h1></summary>
 
 - [x] [Módulo 1 - Base de dados & Linguagem SQL](link)
@@ -100,9 +99,9 @@
 
 </details>
 
-<details open>
+<details >
   <summary>
-    <h2>Projetos</h2>
+    <h1>Projetos</h1>
   </summary>
 
 - [x] [**Projeto #01** | Credit-score](https://github.com/EduardoQuero/Cases/tree/main/Explorando_Dados_de_Cr%C3%A9dito)
